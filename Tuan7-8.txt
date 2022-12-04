@@ -1,0 +1,36 @@
+Các bài làm cho kết quả cuối kỳ ( Thực hiện trên HĐH Windows )
+---------------------------------------------------------------
+Bugzilla - Git - Project Libre
+1. Bugzilla 
+- Cài đặt:
+	. Cài apache, Perl, Mysql, PhpMyadmin (Nếu đã cài đặt Wamp, xampp,...-> không cài thêm Apache, mysql, phpMyadmin)
+	. Cài đặt Bugzilla
+- Sử dụng (Cần cấu hình gửi email (sử dụng gmail) )
+	. Tạo product
+	. Quản lý user: Thêm, disabale, gửi email,..
+	. Quản lý các bug: Thêm bug, gán bug cho user, thay đổi trạng thái bug
+	. Tạo báo cáo (report), ... https://viblo.asia/p/huong-dan-bugzilla-cho-nguoi-moi-bat-dau-cong-cu-theo-doi-loi-6J3ZgwJqZmB
+	. Tìm kiếm,...
+
+2. Git va github (gitlab)
+ Tìm hiểu và cài đặt git trên máy cá nhân
+ tích hợp vào tool Visual code 
+ Tạo 1 account github. Tạo project, phân quyền cho 1 số email khác có quyền sử dụng
+ Sử dụng git trên local để:
+	- lấy về
+	- chỉnh sửa
+	- đồng bộ kho data local và github
+	. Tạo, download, thêm code, phân nhánh, gộp nhánh, upload lên github,...
+* SV có thể sử dụng chung các tài khoản của sv khác trên github, nhưng bcao độc lập
+* Chú ý: Các kho dữ liệu tạo ra cần có history thể hiện qua thời gian dài (có nhiều nhánh, nhiều version)
+
+3. Cài đặt và sử dụng Project Libre
+- tìm hiểu chương trình quản lý project
+- sử dụng project libre, 
+	áp dụng cho 1 đồ án thực tế (có thể dùng dữ liệu giả)
+	Áp dụng cho đồ án chuyên ngành 
+ . Quản lý nhân sự 
+ . Quản lý thời gian
+ . Chi phí tài chính
+ . Các biểu đồ
+ . Báo cáo
